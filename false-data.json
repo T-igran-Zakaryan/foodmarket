@@ -1,0 +1,45 @@
+[
+    {
+      "name": "Fresh Apples",
+      "category": "Fruits",
+      "price_per_kg": 3.50,
+      "availability": true,
+      "origin": "Armenia"
+    },
+    {
+      "name": "Ripe Bananas",
+      "category": "Fruits",
+      "price_per_kg": 2.20,
+      "availability": true,
+      "origin": "Ecuador"
+    },
+    {
+      "name": "Whole Wheat Bread",
+      "category": "Bakery",
+      "price_per_loaf": 1.75,
+      "availability": true,
+      "origin": "Armenia"
+    },
+    {
+      "name": "Organic Eggs",
+      "category": "Dairy",
+      "price_per_dozen": 4.00,
+      "availability": true,
+      "origin": "Armenia"
+    },
+    {
+      "name": "Carrots",
+      "category": "Vegetables",
+      "price_per_kg": 1.80,
+      "availability": true,
+      "origin": "Armenia"
+    },
+    {
+      "name": "Chicken Breast",
+      "category": "Meat",
+      "price_per_kg": 6.50,
+      "availability": true,
+      "origin": "Armenia"
+    }
+  ]
+  
